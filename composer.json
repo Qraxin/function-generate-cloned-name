@@ -1,0 +1,24 @@
+{
+    "name": "qraxin/function-generate-cloned-name",
+    "description": "Adds specific suffix for the source name and adds cloned index if the suffix exists.",
+    "keywords": [
+        "name",
+        "clone",
+        "copy"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sergey Kuraksin",
+            "email": "qraxin@ya.ru"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "files": [
+            "src/functions.php"
+        ]
+    }
+}
